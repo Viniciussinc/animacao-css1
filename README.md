@@ -6,7 +6,10 @@ Este é um projeto sobre animações em css, com o intuito de praticarmos o que 
 # Meu Projeto
 Aqui está na integra o código HTML:
 ###  HTML:
-```<!DOCTYPE html>
+### Exemplo de HTML
+
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,4 +20,5 @@ Aqui está na integra o código HTML:
 <body>
     <div id="spin"></div>
 </body>
-</html> ´´´
+</html>
+```

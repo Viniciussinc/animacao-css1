@@ -6,7 +6,7 @@ Este é um projeto sobre animações em css, com o intuito de praticarmos o que 
 # Meu Projeto
 Aqui está na integra o código HTML:
 ###  HTML:
-### Exemplo de HTML
+
 
 ```html
 <!DOCTYPE html>

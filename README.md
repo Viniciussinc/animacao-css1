@@ -22,7 +22,7 @@ Aqui está na integra o código HTML:
 </body>
 </html>
 ```
-### Css
+### Css:
 ```
 #spin{
 	width: 200px;

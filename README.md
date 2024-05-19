@@ -17,5 +17,4 @@ Aqui está na integra o código HTML:
 <body>
     <div id="spin"></div>
 </body>
-</html>```
-### Css
+</html> ´´´

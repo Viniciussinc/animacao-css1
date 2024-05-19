@@ -18,3 +18,4 @@ Aqui está na integra o código HTML:
     <div id="spin"></div>
 </body>
 </html>```
+### Css
